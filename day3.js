@@ -1,12 +1,6 @@
-// Day 2 input challenge
-// Calculate how much wrapping paper is required based on dimensions of the gifts
+// Day 3 challenge
+// Calculate how many houses Santa and RoboSanta visit based on the input
 
-// Read the input file
-// Read one line of the input
-// Extract the height, width and length
-// Calculate the needed wrapping paper
-// Add extra for the smallest amount
-// Calculate both opening and closing parenthesis
 var rl = require('readline');
 var fs = require('fs');
 var _ = require('underscore');
